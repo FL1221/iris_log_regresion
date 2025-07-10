@@ -23,4 +23,8 @@ This project demonstrates a basic classification workflow using the Iris dataset
 
 ## Dependencies  
 - Python 3.x  
-- pandas, numpy, matplotlib, seaborn, scikit-learn  
+- pandas, numpy, matplotlib, seaborn, scikit-learn
+
+## Dataset
+This project uses the [Iris dataset](https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html) provided by `scikit-learn`.
+
